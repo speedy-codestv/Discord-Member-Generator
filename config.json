@@ -1,8 +1,9 @@
 {
     "capmonster-key": "",
-    "avatar": false,
+    "avatar": true,
     "hypesquad": false,
-    "bio": false,
+    "bio": true,
     "invite": "udqzHqjsW2"
 
 }
+
